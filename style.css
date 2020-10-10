@@ -1,0 +1,63 @@
+html {
+	background-color: #D8F2F0;
+	border-style: solid;
+	border-width: 20px;
+	border-color: #3E8C84;
+
+}
+
+
+.subtitles {
+	font-family: 'Oswald', sans-serif;
+	font-size: 72px;
+	color: #194759;
+	text-align: center;
+
+}
+
+#quotecont {
+	margin-left: -8px;
+	margin-right: -8px;
+	color: #D8F2F0;
+	font-family: 'Bebas Neue', cursive;
+	font-family: 'Oswald', sans-serif;
+	font-size: 72px;
+	background-color: #194759;
+	padding: 100px;
+	text-align: left;
+
+	
+}
+
+#author {
+	text-align: right;
+}
+
+#entriescont {
+	margin-top: 15vh;
+}
+
+.fullCard {
+    float: center;
+    width: 98%;
+    border: 5px solid #ccc;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 4px;
+    background-color: #fde7f9;
+	background-image: linear-gradient(315deg, #fde7f9 0%, #aacaef 74%);
+}
+
+.cardContent {
+    padding: 10px;
+}
+
+.cardText {
+    margin-bottom: 30px;
+    color: #000000;
+    font-size: 1.5em;
+    font-family: 'Varela Round', sans-serif;
+    text-align: left;
+
+}
